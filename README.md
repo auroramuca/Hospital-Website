@@ -31,12 +31,6 @@ webseite/
     └── js/        # JavaScript files
 ```
 
-## 🎥 Demo Video
-
-A demo video of the website is available here:  
-➡️ [Watch the demo video on Google Drive](https://drive.google.com/file/d/1dtAdhNZoosnzPwXHl6luyi4Bpp1CCxdw/view?usp=sharing)
-
-
 ## 🧠 What I Learned
 
 Creating this website helped me:
